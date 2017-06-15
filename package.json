@@ -1,0 +1,25 @@
+{
+  "name": "jsontooc",
+  "version": "1.0.3",
+  "description": "Convert JSON data to Objective-C model",
+  "main": "index.js",
+  "bin": {
+    "jsontooc": "bin/jsontooc.js"
+  },
+  "dependencies": {
+    "deasync": "^0.1.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "fanpyi",
+    "email": "fanpyi@163.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ]
+}
