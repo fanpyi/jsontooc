@@ -5,16 +5,18 @@ Convert JSON data to Objective-C model
 
 Installation
 ------------
-
     npm install -g jsontooc
 
 Uninstallation
 ------------
     npm uninstall -g jsontooc
 
+Requirements
+------------
+    add file 'NSArray+Map.h' and 'NSArray+Map.m' to Xcode project,and #import "NSArray+Map.h"
+
 Command Line
 ------------
-
       Usage: jsontooc -o classname -p classprefix jsonpath
         
       Options:
