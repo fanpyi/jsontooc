@@ -17,7 +17,7 @@ Requirements
 
 Command Line
 ------------
-      Usage: jsontooc -o classname -p classprefix jsonpath
+      Usage: jsontooc -o classname -p classprefix jsonfile
         
       Options:
 
