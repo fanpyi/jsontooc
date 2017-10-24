@@ -16,7 +16,7 @@ function usage(){
      '',
      '      -h,   output usage information',
      '      -o,   Output Objective-C class name',
-     '      -p,   class prefix,Defaults is empty',
+     '      -p,   class prefix,Default is empty',
      ''
     ].join('\n')
     console.log(helptext)

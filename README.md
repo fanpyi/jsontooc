@@ -23,7 +23,7 @@ Command Line
 
         -h,   output usage information
         -o,   Output Objective-C class name
-        -p, [option]  class prefix,Defaults is empty
+        -p, [option]  class prefix,Default is empty
 
 
 
